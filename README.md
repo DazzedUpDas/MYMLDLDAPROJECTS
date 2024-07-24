@@ -3,8 +3,10 @@ Hi, I am Atul Aravind Das. I did my B.Tech in Computer Science and Business Syst
 
 P.S. I really want to delve deeper into concepts like Image Processing and Audio processing. Really appreciate any guidance given to me.
 
-Contact details
+##Contact Details
 
+Phone number: +916383690993
+0
 LinkedIn: https://www.linkedin.com/in/atul-a-das-b0a135168/
 
 Official Instagram: https://www.instagram.com/atul__a__das/
